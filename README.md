@@ -44,7 +44,7 @@ I have built **7 end-to-end analytics projects** across **6 industries** — e-c
 
 > *"I love the moment when data reveals something counter-intuitive that completely changes how a business thinks about a problem."*
 
-### 🌐 [View My Full Portfolio →](https://https://anirbanmahanta.github.io/)
+### 🌐 [View My Full Portfolio →](https://anirbanmahanta.github.io/)
 
 ---
 
