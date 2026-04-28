@@ -36,7 +36,7 @@
 
 ## 🧠 About Me
 
-I'm a **Data Analyst** based in **Lucknow, India**, passionate about turning raw, complex datasets into clear, actionable business insights that help leadership teams make faster and better decisions.
+I'm a **Data Analyst** based in **Kolkata, India**, passionate about turning raw, complex datasets into clear, actionable business insights that help leadership teams make faster and better decisions.
 
 My focus is on building **executive-level dashboards** that actually get used, automating repetitive reporting pipelines to save teams hours every month, and delivering structured analysis that validates assumptions with real data.
 
@@ -44,7 +44,7 @@ I have built **7 end-to-end analytics projects** across **6 industries** — e-c
 
 > *"I love the moment when data reveals something counter-intuitive that completely changes how a business thinks about a problem."*
 
-### 🌐 [View My Full Portfolio →](https://as764994-droid.github.io/my-portfolio/)
+### 🌐 [View My Full Portfolio →](https://https://anirbanmahanta.github.io/)
 
 ---
 
