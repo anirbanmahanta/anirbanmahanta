@@ -124,10 +124,12 @@ I have built **7 end-to-end analytics projects** across **6 industries** — e-c
 ## 🌱 Currently Learning
 
 ```
-Python        ████████░░░░  Intermediate (learning)
+Advance Exel  ████████░░░░  Compleate
+SQL           ██████░░░░░░  Beginner → Intermediate
+Power BI      ██████░░░░░░  Beginner → Intermediate
 Tableau       ██████░░░░░░  Beginner → Intermediate
-Scikit-Learn  ████░░░░░░░░  Beginner
-Statistics    ██████░░░░░░  Intermediate
+Statistics    ████░░░░░░░░  Beginner
+Python        ████████░░░░  Intermediate (learning)
 ```
 
 ---
@@ -138,8 +140,8 @@ Statistics    ██████░░░░░░  Intermediate
 
 | Degree | Institution | Year |
 |--------|------------|------|
-| B.Com — Accounting & Finance | University of Lucknow | 2020 – 2024 |
-| Data Analytics with GenAI Program | PW Skills | Ongoing |
+| B.Arts — General | University of Burdwan | 2008 – 2011 |
+| Data Analytics with AI Program | PW Skills | Ongoing |
 
 **📜 Certifications**
 
