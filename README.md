@@ -2,32 +2,31 @@
 
 <!-- HEADER BANNER -->
 
-<!-- ===== GLASSMORPHISM BANNER ===== -->
+<!-- ===== ULTRA MODERN DATA ANALYST BANNER ===== -->
 <div align="center">
 
-<!-- Background -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=&fontSize=0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:111827,60:1a1f35,100:00d4ff&height=260&section=header&text=Anirban%20Mahanta&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20%7C%20Turning%20Data%20into%20Business%20Decisions&descAlignY=60&descSize=20&descColor=00d4ff&animation=fadeIn" />
 
-<!-- Glass Card -->
-<div style="
-  margin-top:-220px;
-  width:80%;
-  backdrop-filter: blur(16px);
-  -webkit-backdrop-filter: blur(16px);
-  background: rgba(255, 255, 255, 0.05);
-  border-radius: 20px;
-  border: 1px solid rgba(255,255,255,0.15);
-  padding: 30px;
-  box-shadow: 0 8px 32px rgba(0,0,0,0.3);
-">
+</div>
 
-<h1 style="color:white; font-size:42px; margin-bottom:10px;">
-Anirban Mahanta
-</h1>
-
-<p style="color:#00d4ff; font-size:18px;">
-Data Analyst | Turning Data into Business Decisions
+<!-- ===== FLOATING TECH STACK ANIMATION ===== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=SQL+%7C+Python+%7C+Excel+%7C+Power+BI+%7C+Tableau;Data+Cleaning+%7C+Data+Visualization+%7C+Dashboarding;Turning+Raw+Data+into+Insights;Building+Business+Impact+with+Data" />
 </p>
+
+<!-- ===== FLOATING ICONS ===== -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,excel,tableau,github&theme=dark" />
+</p>
+
+<!-- ===== EXTRA ANIMATION LAYER ===== -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnirbanMahanta&theme=github_dark" />
+</p>
+
+<!-- ===== WAVING FOOTER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0d1117&height=120&section=footer"/>
+
 
 <!-- Typing Animation -->
 <p align="center">
