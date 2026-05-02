@@ -169,7 +169,7 @@ Python        ████████░░░░  Intermediate (learning)
   <img src="https://img.shields.io/badge/LinkedIn-anirbanmahanta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://anirbanmahanta.github.io/my-portfolio/">
+<a href="https://anirbanmahanta.github.io">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
