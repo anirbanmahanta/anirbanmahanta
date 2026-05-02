@@ -2,31 +2,8 @@
 
 <!-- HEADER BANNER -->
 
-<!-- ===== ULTRA MODERN DATA ANALYST BANNER ===== -->
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:00d4ff&height=200&section=header&text=Anirban%20Mahanta&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20%7C%20Turning%20Data%20into%20Business%20Decisions&descAlignY=58&descSize=18&descColor=00d4ff&animation=fadeIn" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:111827,60:1a1f35,100:00d4ff&height=260&section=header&text=Anirban%20Mahanta&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20%7C%20Turning%20Data%20into%20Business%20Decisions&descAlignY=60&descSize=20&descColor=00d4ff&animation=fadeIn" />
-
-</div>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=SQL+%7C+Python+%7C+Excel+%7C+Power+BI+%7C+Tableau;Data+Visualization+%7C+Dashboards+%7C+Analytics;From+Raw+Data+to+Actionable+Insights" />
-</p>
-
-<!-- Tech Icons -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,github&theme=dark" />
-</p>
-
-</div>
-
-</div>
-
-<!-- Bottom Glow -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:0d1117&height=80&section=footer" />
-</p>
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=40&lines=Turning+Raw+Data+into+Business+Decisions;7+Projects+%7C+6+Industries+%7C+132K%2B+Records+Analysed;%E2%82%B9311M%2B+Revenue+Tracked+%7C+38%2B+DAX+Measures+Built;Open+to+Work+%E2%80%94+Immediate+Joiner+%7C+Lucknow%2C+India" alt="Typing SVG" />
