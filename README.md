@@ -9,25 +9,6 @@
 
 </div>
 
-<!-- ===== FLOATING TECH STACK ANIMATION ===== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=SQL+%7C+Python+%7C+Excel+%7C+Power+BI+%7C+Tableau;Data+Cleaning+%7C+Data+Visualization+%7C+Dashboarding;Turning+Raw+Data+into+Insights;Building+Business+Impact+with+Data" />
-</p>
-
-<!-- ===== FLOATING ICONS ===== -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,excel,tableau,github&theme=dark" />
-</p>
-
-<!-- ===== EXTRA ANIMATION LAYER ===== -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnirbanMahanta&theme=github_dark" />
-</p>
-
-<!-- ===== WAVING FOOTER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0d1117&height=120&section=footer"/>
-
-
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=SQL+%7C+Python+%7C+Excel+%7C+Power+BI+%7C+Tableau;Data+Visualization+%7C+Dashboards+%7C+Analytics;From+Raw+Data+to+Actionable+Insights" />
