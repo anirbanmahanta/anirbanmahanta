@@ -10,8 +10,8 @@
 
 <!-- PROFILE VIEWS + FOLLOWERS -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=as764994-droid&label=Profile+Views&color=00d4ff&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/as764994-droid?label=Followers&style=flat&color=00d4ff" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=anirbanmahanta&label=Profile+Views&color=00d4ff&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/anirbanmahanta?label=Followers&style=flat&color=00d4ff" alt="Followers" />
 </p>
 
 <!-- SOCIAL BADGES -->
@@ -100,13 +100,13 @@ I have built **7 end-to-end analytics projects** across **6 industries** — e-c
 
 | # | Project | Tools | Domain | Scale |
 |:-:|---------|-------|--------|-------|
-| 🔴 01 | [**Netflix Content Strategy Dashboard**](https://github.com/as764994-droid/netflix-content-strategy-dashboard-powerbi) | Power BI · DAX · RLS · Power Query | Streaming | 8,800+ titles · 190+ countries |
-| 🟡 02 | [**Blinkit Grocery Sales Dashboard**](https://github.com/as764994-droid/blinkit-grocery-sales-performance-dashboard-powerbi) | Power BI · DAX · Power Query | Retail · Grocery | ~8,523 rows · 2011–2022 |
-| 🟢 03 | [**National Distributor Sales Dashboard**](https://github.com/as764994-droid/national-distributor-sales-dashboard-excel) | Advanced Excel · Power Query · PivotTables | FMCG · Distribution | 100,000+ records · 36 months |
-| 🟠 04 | [**Swiggy Sales & Market Analysis**](https://github.com/as764994-droid/swiggy-sales-market-analysis-excel) | Advanced Excel · Time-Series | Food Delivery | 197,430 orders · ₹53.01M |
-| 🔵 05 | [**Vrinda Store Annual Sales Report**](https://github.com/as764994-droid/vrinda-store-annual-sales-report-excel) | Advanced Excel · Pivot Tables | E-commerce · Retail | 12 months · 8 business questions |
-| 🟤 06 | [**Retail Sales Analysis — SQL**](https://github.com/as764994-droid/retail-sales-analysis-sql) | SQL · MySQL | Retail · Transactional | 10 business queries · Full EDA |
-| 🏦 07 | [**Credit Risk & Loan Default Analysis**](https://github.com/as764994-droid/credit-risk-loan-default-analysis) | Power BI · Excel · SQL · DAX | Banking · Credit Risk | 32,407 loan records · ₹77M at-risk |
+| 🔴 01 | [**Netflix Content Strategy Dashboard**](https://github.com/anirbanmahanta/netflix-content-strategy-dashboard-powerbi) | Power BI · DAX · RLS · Power Query | Streaming | 8,800+ titles · 190+ countries |
+| 🟡 02 | [**Blinkit Grocery Sales Dashboard**](https://github.com/anirbanmahanta/blinkit-grocery-sales-performance-dashboard-powerbi) | Power BI · DAX · Power Query | Retail · Grocery | ~8,523 rows · 2011–2022 |
+| 🟢 03 | [**National Distributor Sales Dashboard**](https://github.com/anirbanmahanta/national-distributor-sales-dashboard-excel) | Advanced Excel · Power Query · PivotTables | FMCG · Distribution | 100,000+ records · 36 months |
+| 🟠 04 | [**Swiggy Sales & Market Analysis**](https://github.com/anirbanmahanta/swiggy-sales-market-analysis-excel) | Advanced Excel · Time-Series | Food Delivery | 197,430 orders · ₹53.01M |
+| 🔵 05 | [**Vrinda Store Annual Sales Report**](https://github.com/anirbanmahanta/vrinda-store-annual-sales-report-excel) | Advanced Excel · Pivot Tables | E-commerce · Retail | 12 months · 8 business questions |
+| 🟤 06 | [**Retail Sales Analysis — SQL**](https://github.com/anirbanmahanta/retail-sales-analysis-sql) | SQL · MySQL | Retail · Transactional | 10 business queries · Full EDA |
+| 🏦 07 | [**Credit Risk & Loan Default Analysis**](https://github.com/anirbanmahanta/credit-risk-loan-default-analysis) | Power BI · Excel · SQL · DAX | Banking · Credit Risk | 32,407 loan records · ₹77M at-risk |
 
 </div>
 
@@ -169,7 +169,7 @@ Python        ████████░░░░  Intermediate (learning)
   <img src="https://img.shields.io/badge/LinkedIn-anirbanmahanta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://as764994-droid.github.io/my-portfolio/">
+<a href="https://anirbanmahanta.github.io/my-portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
